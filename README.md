@@ -28,4 +28,16 @@ For Gossip Algorithm
 
 | Topology | Largest Ntwork Size |
 | -------- | ------------------- |
+| Full | 15000 |
+| 2D Grid | 15000 |
 | Line | 15000 |
+| Imperfect 3D | 15000 |
+
+For Push Sum Algorithm
+
+| Topology | Largest Ntwork Size |
+| -------- | ------------------- |
+| Full | 15000 |
+| 2D Grid | 15000 |
+| Line | 15000 |
+| Imperfect 3D | 15000 |
