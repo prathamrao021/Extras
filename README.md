@@ -41,3 +41,83 @@ For Push Sum Algorithm
 | 2D Grid | 15000 |
 | Line | 15000 |
 | Imperfect 3D | 15000 |
+
+### Converge time for all Algorithms and Topology separately
+
+For Gossip (Line Topology)
+
+| Number of Nodes | Converge time |
+| --- | --- |
+| 25 | 15000 |
+| 50 | 15000 |
+| 100 | 15000 |
+| 500 | 15000 |
+| 1000 | 15000 |
+| 5000 | 15000 |
+| 10000 | 15000 |
+| 15000 | 15000 |
+
+For Push Sum (Line Topology)
+
+| Number of Nodes | Converge time |
+| --- | --- |
+| 25 | 15000 |
+| 50 | 15000 |
+| 100 | 15000 |
+| 500 | 15000 |
+| 1000 | 15000 |
+| 5000 | 15000 |
+| 10000 | 15000 |
+| 15000 | 15000 |
+
+For Gossip (Full Network)
+
+| Number of Nodes | Converge time |
+| --- | --- |
+| 25 | 15000 |
+| 50 | 15000 |
+| 100 | 15000 |
+| 500 | 15000 |
+| 1000 | 15000 |
+| 5000 | 15000 |
+| 10000 | 15000 |
+| 15000 | 15000 |
+
+For Push Sum (Full Network)
+
+| Number of Nodes | Converge time |
+| --- | --- |
+| 25 | 15000 |
+| 50 | 15000 |
+| 100 | 15000 |
+| 500 | 15000 |
+| 1000 | 15000 |
+| 5000 | 15000 |
+| 10000 | 15000 |
+| 15000 | 15000 |
+
+For Gossip (2D Grid)
+
+| Number of Nodes | Converge time |
+| --- | --- |
+| 25 | 15000 |
+| 50 | 15000 |
+| 100 | 15000 |
+| 500 | 15000 |
+| 1000 | 15000 |
+| 5000 | 15000 |
+| 10000 | 15000 |
+| 15000 | 15000 |
+
+For Push Sum (2D Grid)
+
+| Number of Nodes | Converge time |
+| --- | --- |
+| 25 | 15000 |
+| 50 | 15000 |
+| 100 | 15000 |
+| 500 | 15000 |
+| 1000 | 15000 |
+| 5000 | 15000 |
+| 10000 | 15000 |
+| 15000 | 15000 |
