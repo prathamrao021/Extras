@@ -9,4 +9,4 @@
 
 ### Steps to run the program
 1. Move to the project directory
-2. Run the following command: '''donet run <numNodes> <topology> <algorithm>'''
+2. Run the following command: ```donet run <numNodes> <topology> <algorithm>```
