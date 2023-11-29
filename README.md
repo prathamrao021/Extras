@@ -24,4 +24,8 @@ All the topologies have successfully converged various number of nodes.
 
 ### What is the largest network you managed to deal with for each type of topology and algorithm?
 
+For Gossip Algorithm
 
+| Topology | Largest Ntwork Size |
+| -------- | ------------------- |
+| Line | 15000 |
